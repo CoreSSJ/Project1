@@ -1,5 +1,6 @@
 # Dev & Ops
-<div align="right"><a href="https://coressj.github.io/Project1" target="_top">Home</a>&nbsp <a href="https://coressj.github.io/Project1/page2" target="_top">Categories</a>&nbsp <a href="https://coressj.github.io/Project1/page3" target="_top">About us</a> </div>
+<pre><div align="right"><a href="https://coressj.github.io/Project1" target="_top">Home</a> <a href="https://coressj.github.io/Project1/page2" target="_top">Categories</a> <a href="https://coressj.github.io/Project1/page3" target="_top">About us</a> </div></pre>
+
 
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/cayman/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/cayman/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-cayman.svg)](https://badge.fury.io/rb/jekyll-theme-cayman)
 
