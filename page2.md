@@ -1,1 +1,1 @@
-<h1> Hit me</h2>
+<h1> Categories</h1>
