@@ -1,1 +1,2 @@
 <h1> Categories</h1>
+<h5>[Home](https://coressj.github.io/Project1) [Categories](https://coressj.github.io/Project1/page2) [ About us](https://coressj.github.io/Project1/page3) </h5>
