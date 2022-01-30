@@ -3,3 +3,14 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: [The Next Generation]
 description: [To show our greatness to the world]
+
+[params.social]                                        
+    a-email = "mailto:your@email.com"
+    c-twitter = "http://localhost:1313"
+    d-facebook = "http://localhost:1313"
+    e-linkedin = "http://localhost:1313"
+    f-google = "http://localhost:1313"
+    g-github = "http://localhost:1313"
+    l-tumblr = "http://localhost:1313"
+    m-instagram = "http://localhost:1313"
+   
